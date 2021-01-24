@@ -4,5 +4,5 @@ node_modules
 .env
 #readme
 .md 
-#ds_dstore
-.d_dstore
+#d_store
+.d_store
