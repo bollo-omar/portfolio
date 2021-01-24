@@ -1,0 +1,8 @@
+#node_modules
+node_modules
+#dotenv
+.env
+#readme
+.md 
+#ds_dstore
+.d_dstore
